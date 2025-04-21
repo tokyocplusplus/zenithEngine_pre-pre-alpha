@@ -1,0 +1,1 @@
+this is just a side project for now, still planning to make games with godot and C#
